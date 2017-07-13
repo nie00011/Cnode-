@@ -1,4 +1,4 @@
 #这是一级菜单
 
 ##项目二维码
-<img src="./dist/cnode.png"/>
+<img src=" https://nie00011.github.io/Cnode-/dist/cnode.png"/>l b 
